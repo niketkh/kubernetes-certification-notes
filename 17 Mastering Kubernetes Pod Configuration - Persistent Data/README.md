@@ -111,6 +111,8 @@ The cluster you are using is running in AWS and is configured to automatically c
   The output confirms the data was persisted by using the PVC.
   **Note**: IF you see an error, re-issue the command every 15 seconds until it succeeds after the Pod is fully initialized.
 
+![Persistent Data](images/persistent.png)
+
 Resources
 ---------
 
